@@ -1,0 +1,25 @@
+{
+  "name": "apextech-laptop-affiliate",
+  "version": "1.0.0",
+  "description": "Premium laptop affiliate recommendation hub optimized for Render deployment, anti-sleep keepalive, and free URL metadata scraping.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "render",
+    "laptop-affiliate",
+    "facebook-ads",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
